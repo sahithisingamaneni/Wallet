@@ -1,0 +1,6 @@
+1. create blockcypher account
+2. get apikey 
+3. try running commands with that api key 
+4. push the folder content to github 
+5. add this to ur resume 
+6. write mail to professor 

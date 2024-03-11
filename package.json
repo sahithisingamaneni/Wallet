@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@oclif/core": "^3.19.1",
+    "bip32": "^4.0.0",
+    "bip39": "^3.1.0",
+    "bitcoinjs-lib": "^6.1.5",
+    "commander": "^12.0.0",
+    "dotenv": "^16.4.2",
+    "fs": "^0.0.1-security",
+    "hdkey": "^2.1.0",
+    "tiny-secp256k1": "^2.2.3"
+  },
+  "name": "bitcoin-wallet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
